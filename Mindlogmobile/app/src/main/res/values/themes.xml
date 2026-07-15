@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.MindForce" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FFB300</item>
+        <item name="colorPrimaryVariant">#FFA000</item>
+        <item name="colorOnPrimary">#000000</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#FFB300</item>
+
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+</resources>

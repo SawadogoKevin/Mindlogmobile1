@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MindForce</string>
+    <string name="company_name_main">Mindforce</string>
+    <string name="company_name_sub">Services</string>
+    <string name="app_subtitle">GESTION LOGISTIQUE</string>
+    <string name="welcome_title">Bienvenue !</string>
+    <string name="login_subtitle">Connectez-vous à votre compte</string>
+    <string name="stats_title">Statistiques du département</string>
+    <string name="stats_materiels">Matériels</string>
+    <string name="stats_en_panne">En panne</string>
+    <string name="home_action_title">Que voulez-vous faire ?</string>
+</resources>
